@@ -8,20 +8,22 @@ I'm passionate about building scalable tech solutions, automating workflows, and
 
 ### 🔧 Tech Stack & Skills
 
-- **Programming Languages:** Go, TypeScript, JavaScript, PHP, Python, KOtlin
+- **Programming Languages:** Go, TypeScript, JavaScript, PHP, Python, Kotlin
 - **Frameworks & Libraries:** Next.js, Laravel, Echo, React, Flutter
 - **Database:** PostgreSQL, MySQL
 - **Cloud & DevOps:** Google Cloud, Docker, GitHub Actions, CI/CD
-- **Other:** Tailwind CSS, Node.Js.FastAPI
+- **Other:** Tailwind CSS, Node.Js, FastAPI
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40"/>
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
