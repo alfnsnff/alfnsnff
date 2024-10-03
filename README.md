@@ -14,6 +14,8 @@ I'm passionate about building scalable tech solutions, automating workflows, and
 - **Cloud & DevOps:** Google Cloud, Docker, GitHub Actions, CI/CD
 - **Other:** Tailwind CSS, Node.Js, FastAPI
 
+---
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -52,8 +54,8 @@ I'm passionate about building scalable tech solutions, automating workflows, and
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="40"/>
   <img width="12" />
-  
 </div>
+
 ---
 
 ### 🌱 Currently Learning
