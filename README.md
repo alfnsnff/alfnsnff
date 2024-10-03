@@ -4,11 +4,15 @@
 
 I'm passionate about building scalable tech solutions, automating workflows, and creating immersive experiences through game development. Currently exploring AI in gaming, mobile development, and building cloud-native applications. Welcome to my GitHub, where I share my projects and learning journey!
 
-
 ---
-<h2 align="left">🗣️ I speak with</h2>
 
-###
+### 🔧 Tech Stack & Skills
+
+- **Programming Languages:** Go, TypeScript, JavaScript, PHP, Python, KOtlin
+- **Frameworks & Libraries:** Next.js, Laravel, Echo, React, Flutter
+- **Database:** PostgreSQL, MySQL
+- **Cloud & DevOps:** Google Cloud, Docker, GitHub Actions, CI/CD
+- **Other:** Tailwind CSS, Node.Js.FastAPI
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -34,12 +38,6 @@ I'm passionate about building scalable tech solutions, automating workflows, and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
-
-<h2 align="left">🛠️ My Tech</h2>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -59,16 +57,6 @@ I'm passionate about building scalable tech solutions, automating workflows, and
   <img width="12" />
   
 </div>
----
-
-### 🔧 Tech Stack & Skills
-
-- **Programming Languages:** Go, TypeScript, JavaScript, PHP, Python, KOtlin
-- **Frameworks & Libraries:** Next.js, Laravel, Echo, React, Flutter
-- **Database:** PostgreSQL, MySQL
-- **Cloud & DevOps:** Google Cloud, Docker, GitHub Actions, CI/CD
-- **Other:** Tailwind CSS, Node.Js.FastAPI
-
 ---
 
 ### 🌱 Currently Learning
