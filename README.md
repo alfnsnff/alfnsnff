@@ -1,7 +1,5 @@
 # Hello, I'm M. Alfan Septian Nufi! 👋
 
-🚀 **Full Stack Developer | DevOps Engineer | Game Developer in Progress**
-
 I'm passionate about building scalable tech solutions, automating workflows, and creating immersive experiences through game development. Currently exploring AI in gaming, mobile development, and building cloud-native applications. Welcome to my GitHub, where I share my projects and learning journey!
 
 ---
