@@ -4,13 +4,13 @@ I'm passionate about building scalable tech solutions, automating workflows, and
 
 ---
 
-### 🔧 Tech Stack & Skills
+### Stack & Skills
 
-- **Programming Languages:** Go, TypeScript, JavaScript, PHP, Python, Kotlin
-- **Frameworks & Libraries:** Next.js, Laravel, Echo, React, Flutter
-- **Database:** PostgreSQL, MySQL
-- **Cloud & DevOps:** Google Cloud, Docker, GitHub Actions, CI/CD
-- **Other:** Tailwind CSS, Node.Js, FastAPI
+- **Langs:** Go, TypeScript, JavaScript, PHP, Python, Kotlin
+- **Frameworks/Libs:** Next.js, Nuxt.js, Laravel, Echo, React, Flutter, FastAPI, Node.Js, VueJS, ReactJS, TailwindCSS
+- **Databased:** PostgreSQL, MySQL, NoSQL
+- **Cloud/DevOPS:** Google Cloud, Docker, GitHub Actions, CI/CD
+- **Other:** Unreal Engine, Unity, Blender
 
 ---
 
