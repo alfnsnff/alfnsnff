@@ -58,10 +58,8 @@ I'm passionate about building scalable tech solutions, automating workflows, and
 
 ### Currently Learning
 
-- **AI in Game Development** for my final thesis project
-- Building APIs with **Go & Echo**
-- **Mobile Development** using **Flutter**
-- **WebGIS** project for real-time monitoring
+- **AI & Game Development**
+- **Mobile Development** with **Flutter**
 
 ---
 
