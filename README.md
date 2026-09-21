@@ -1,4 +1,4 @@
-# Hello, I'm M. Alfan Septian Nufi! 👋
+# Hello, I'm M. Alfan Septian Nufi! 
 
 I'm passionate about building scalable tech solutions, automating workflows, and creating immersive experiences through game development. Currently exploring AI in gaming, mobile development, and building cloud-native applications. Welcome to my GitHub, where I share my projects and learning journey!
 
@@ -56,7 +56,7 @@ I'm passionate about building scalable tech solutions, automating workflows, and
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 
 - **AI in Game Development** for my final thesis project
 - Building APIs with **Go & Echo**
@@ -65,4 +65,4 @@ I'm passionate about building scalable tech solutions, automating workflows, and
 
 ---
 
-⭐️ **Thanks for visiting!** Feel free to explore my repositories and reach out if you'd like to collaborate. Let's build something amazing together!
+**Thanks for visiting!** Feel free to explore my repositories and reach out if you'd like to collaborate. Let's build something amazing together!
